@@ -1,0 +1,109 @@
+{
+  "name": "Wakken",
+  "gain": 0.5,
+  "position": 0,
+  "minTime": 0,
+  "maxTime": 264,
+  "tracks": [
+    {
+      "name": "Drum",
+      "path": "sounds/001Soundboard-LouisDrum.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Klarinet 1",
+      "path": "sounds/002Soundboard-Laurens-Klarinet1.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Klarinet 2",
+      "path": "sounds/003Soundboard-Laurens-Klarinet2.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Klarinet 3",
+      "path": "sounds/004Soundboard-Laurens-Klarinet3.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Saxofoon 1",
+      "path": "sounds/005Soundboard-Emilia_Saxofoon1.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Trompet 1",
+      "path": "sounds/006Soundboard-DirkTrompet1.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Trombone 1",
+      "path": "sounds/007Soundboard-Jan_Trombone1.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Trombone 3",
+      "path": "sounds/008Soundboard-Jan-Trombone3.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Hoorn 1",
+      "path": "sounds/009Soundboard-Wim-Hoorn1.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    },
+    {
+      "name": "Hoorn 2",
+      "path": "sounds/010Soundboard-Wim_Hoorn2.mp3",
+      "gain": 0.5,
+      "pan": 0,
+      "muted": false,
+      "_muted": false,
+      "soloed": false,
+      "afl": true
+    }
+  ]
+}
